@@ -5,10 +5,10 @@ Tech Stack: HTML, CSS, Vanilla Js, [Screen Capture API](https://developer.mozill
 
 
 ****HOW TO USE***: 
-  Step-1: select Entire Screen/ Window / a Tab.
-  step-2: click on Share button
-  Step-3: Get back to the tab where application is running
-  step-4: click on START
+  * Step-1: select Entire Screen/ Window / a Tab.
+  * step-2: click on Share button
+  * Step-3: Get back to the tab where application is running 
+  * step-4: click on START
 
   ![Demo](demo.png)
 
