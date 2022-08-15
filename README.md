@@ -1,4 +1,4 @@
-# Picture-in-Picture
+# Picture-in-Picture [[link](https://prasenjitjs3.netlify.app/)]
 The Picture-in-Picture API allow websites to create a floating video window always on top of other windows so that users may continue consuming media while they interact with other content sites, or applications on their device..
 
 Tech Stack: HTML, CSS, Vanilla Js, [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture), [Picture-in-Picture](https://developer.mozilla.org/en-US/docs/Web/API/Picture-in-Picture_API)
@@ -9,6 +9,8 @@ Tech Stack: HTML, CSS, Vanilla Js, [Screen Capture API](https://developer.mozill
   step-2: click on Share button
   Step-3: Get back to the tab where application is running
   step-4: click on START
+
+  ![Demo](demo.png)
 
 
 HOW IT WORKS:
